@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GoalMasters Soccer Camp</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>GoalMasters Soccer Camp</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="our-programmes.html">Our Programmes</a></li>
+        <li><a href="our-products.html">Our Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Kickstart Your Soccer Journey!</h2>
+    <p>Train with professional coaches, improve your skills, and have fun this summer!</p>
+    <a href="our-programmes.html" class="btn">View Programmes</a>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h3>Expert Coaches</h3>
+      <p>Learn from certified trainers who’ve played at the highest levels.</p>
+    </div>
+    <div class="feature">
+      <h3>All Skill Levels</h3>
+      <p>Beginner or pro — we have a camp for you!</p>
+    </div>
+    <div class="feature">
+      <h3>Fun & Fitness</h3>
+      <p>Stay active, make friends, and love the game.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 GoalMasters Soccer Camp | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
